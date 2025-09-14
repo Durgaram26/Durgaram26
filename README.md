@@ -12,39 +12,48 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td>
+
+**🤖 AI Engineer & Researcher**
+
 ```python
 class DurgaramAI:
     def __init__(self):
         self.name = "Durgaram"
-        self.role = "AI/ML Engineer"
+        self.role = "AI/ML Engineer" 
         self.passion = ["LLMs", "Computer Vision", "Open Source AI"]
         self.current_obsession = "Exploring VLLM & Hugging Face 🤗"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python 🐍", "HTML", "CSS", "JavaScript"],
-            "ai_ml": {
-                "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
-                "specialties": ["Deep Learning", "Computer Vision", "NLP", "LLMs"],
-                "models": ["GPT", "BERT", "Vision Transformers", "YOLO", "ResNet"],
-                "tools": ["Hugging Face 🤗", "Google Colab", "Jupyter", "MLflow"]
-            },
-            "databases": ["MySQL", "MSSQL", "PostgreSQL", "MongoDB"],
-            "web_dev": ["React.js", "Node.js", "Express"],
-            "platforms": ["Google Colab", "Kaggle", "GitHub", "Docker"],
-            "current_focus": "VLLM optimization & Open Source AI models"
-        }
-    
-    def daily_routine(self):
-        return [
-            "☕ Coffee + Reading AI papers",
-            "🤗 Exploring new Hugging Face models", 
-            "🔬 Training models on Google Colab",
-            "👁️ Building Computer Vision projects",
-            "📊 Analyzing model performance",
-            "🌟 Contributing to Open Source AI"
-        ]
 ```
+
+**🛠️ Tech Arsenal:**
+- 🐍 **Languages:** Python, JavaScript, HTML, CSS
+- 🧠 **AI/ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn
+- 🎯 **Specialties:** Deep Learning, Computer Vision, NLP, LLMs  
+- 🤗 **Platforms:** Hugging Face, Google Colab, Kaggle
+- 💾 **Databases:** MySQL, MSSQL, PostgreSQL, MongoDB
+
+</td>
+<td>
+
+**📊 Current Focus:**
+- 🤖 VLLM optimization & inference
+- 👁️ Computer Vision applications  
+- 🧠 Medical AI & healthcare solutions
+- 🔄 AI automation & prediction models
+- 🌟 Open Source AI contributions
+
+**⚡ Daily Routine:**
+- ☕ Coffee + AI research papers
+- 🤗 Exploring new Hugging Face models
+- 🔬 Training models on Google Colab  
+- 👁️ Building Computer Vision projects
+- 📊 Model performance optimization
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
