@@ -146,11 +146,11 @@ DSA , GEN AI ,RAG,MCP
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaramr)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=github-pages&logoColor=white)](https://durgaram26.github.io/DRporto.github.io/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
-[![Hugging Face](https://img.shields.io/badge/-🤗_Hugging_Face-FFCA28?style=for-the-badge&logoColor=black)](https://huggingface.co/your-hf-profile)
-[![Google Colab](https://img.shields.io/badge/-My_Colab_Notebooks-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/-🤗_Hugging_Face-FFCA28?style=for-the-badge&logoColor=black)](https://huggingface.co/Durgaram)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgaramesh641@gmail.com)
 
 ### 🧠 AI Quote of the Day
 ![AI Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
