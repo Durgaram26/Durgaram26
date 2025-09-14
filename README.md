@@ -4,19 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=AI%2FML+Engineer+%F0%9F%A7%A0;LLM+Explorer+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Open+Source+Contributor+%E2%9C%A8;Always+Training+New+Models!)](https://git.io/typing-svg)
 
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200">
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-<table>
-<tr>
-<td>
-
-**🤖 AI Engineer & Researcher**
 
 ## 🤖 AI/ML Arsenal & Tools
 
@@ -85,46 +79,6 @@
 
 ---
 
-## 🤖 AI/ML Arsenal & Tools
-
-<div align="center">
-
-### 🧠 AI/ML Frameworks & Libraries
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="200">
-
-### 🤗 Favorite AI Platforms & Tools
-![Hugging Face](https://img.shields.io/badge/-🤗_Hugging_Face-FFCA28?style=for-the-badge&logoColor=black)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💾 Databases & Backend
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
 
 ## 🎯 Current AI Adventures
 
@@ -144,39 +98,13 @@
 
 ---
 
-## 📊 AI/ML Project Showcase
-
-<div align="center">
-
-### 🏆 Featured AI Projects
-[![Computer Vision](https://img.shields.io/badge/-Computer_Vision_Project-FF6B35?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Durgaram26)
-[![LLM Fine-tuning](https://img.shields.io/badge/-LLM_Fine--tuning-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/Durgaram26)
-[![Prediction Model](https://img.shields.io/badge/-Prediction_Model-20BEFF?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Durgaram26)
-
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgaram26&repo=computer-vision-projects&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Durgaram26)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgaram26&repo=llm-experiments&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Durgaram26)
-
-</div>
-
----
-
 ## 🧪 AI Learning Journey
 
 <div align="center">
 
 ### 📚 Currently Learning
-```python
-learning_path = {
-    "Advanced Deep Learning": "🧠",
-    "Large Language Models": "🤖", 
-    "Computer Vision": "👁️",
-    "MLOps & Model Deployment": "🚀",
-    "Reinforcement Learning": "🎮",
-    "Generative AI": "🎨"
-}
-```
+
+DSA , GEN AI ,RAG,MCP
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 
@@ -194,12 +122,6 @@ learning_path = {
 ## 📊 Detailed Analytics & Activity
 
 <div align="center">
-
-### 🕐 Coding Activity
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### 📅 Contribution Heatmap
 ![GitHub Activity](https://ghchart.rshah.org/FF6B35/Durgaram26)
