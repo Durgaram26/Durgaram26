@@ -18,42 +18,44 @@
 
 **🤖 AI Engineer & Researcher**
 
-```python
-class DurgaramAI:
-    def __init__(self):
-        self.name = "Durgaram"
-        self.role = "AI/ML Engineer" 
-        self.passion = ["LLMs", "Computer Vision", "Open Source AI"]
-        self.current_obsession = "Exploring VLLM & Hugging Face 🤗"
-```
+## 🤖 AI/ML Arsenal & Tools
 
-**🛠️ Tech Arsenal:**
-- 🐍 **Languages:** Python, JavaScript, HTML, CSS
-- 🧠 **AI/ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn
-- 🎯 **Specialties:** Deep Learning, Computer Vision, NLP, LLMs  
-- 🤗 **Platforms:** Hugging Face, Google Colab, Kaggle
-- 💾 **Databases:** MySQL, MSSQL, PostgreSQL, MongoDB
+<div align="center">
 
-</td>
-<td>
+### 🧠 AI/ML Frameworks & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**📊 Current Focus:**
-- 🤖 VLLM optimization & inference
-- 👁️ Computer Vision applications  
-- 🧠 Medical AI & healthcare solutions
-- 🔄 AI automation & prediction models
-- 🌟 Open Source AI contributions
+<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="200">
 
-**⚡ Daily Routine:**
-- ☕ Coffee + AI research papers
-- 🤗 Exploring new Hugging Face models
-- 🔬 Training models on Google Colab  
-- 👁️ Building Computer Vision projects
-- 📊 Model performance optimization
+### 🤗 Favorite AI Platforms & Tools
+![Hugging Face](https://img.shields.io/badge/-🤗_Hugging_Face-FFCA28?style=for-the-badge&logoColor=black)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</td>
-</tr>
-</table>
+### 💾 Databases & Backend
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
